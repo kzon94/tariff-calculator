@@ -1,10 +1,10 @@
 origin,destination,tariff,product
-MY,UE,0.029,PFAD - MP - 3823.19.30.80 - 2.9%
-MY,UE,0.029,C1670 - MP - 3823.19.30.80 - 2.9%
-MY,UE,0.029,C1660 - MP - 3823.19.30.80 - 2.9%
-MY,UE,0.029,C1299 Lauric Acid - MP - 3823.19.10.30 - 2.9%
-MY,UE,0.029,C6C8 Caproic Caprylic Acid- MP - 3823.19.10.30 - 2.9%
-MY,UE,0.029,C8C10 Caprylic Capric Acid- MP - 3823.19.10.30 - 2.9%
+MY,EU,0.029,PFAD - MP - 3823.19.30.80 - 2.9%
+MY,EU,0.029,C1670 - MP - 3823.19.30.80 - 2.9%
+MY,EU,0.029,C1660 - MP - 3823.19.30.80 - 2.9%
+MY,EU,0.029,C1299 Lauric Acid - MP - 3823.19.10.30 - 2.9%
+MY,EU,0.029,C6C8 Caproic Caprylic Acid- MP - 3823.19.10.30 - 2.9%
+MY,EU,0.029,C8C10 Caprylic Capric Acid- MP - 3823.19.10.30 - 2.9%
 MY,EU,0.096,Ruminer - JC100/300 - 2309.90.96.96 - 9.6%
 MY,EU,0.029,NLC16 - H400/900 - 3823.19.10.50 - 2.9%
 MY,EU,0.051,Hidrofat - H100/700/800 - 3823.11.00.50 - 5.1%
