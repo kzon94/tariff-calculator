@@ -1,0 +1,13 @@
+from __future__ import annotations
+
+
+def calculate_tariff_per_ton(
+    goods_value_usd_per_ton: float,
+    freight_value_usd_per_ton: float,
+    exchange_rate: float,
+    tariff_rate: float,
+) -> float:
+    taxable_base_usd = goods_value_usd_per_ton + freight_value_usd_per_ton
+    taxable_base_local_currency = taxable_base_usd * exchange_rate
+    tariff_amount_per_ton = taxable_base_local_currency * tariff_rate
+    return round(tariff_amount_per_ton, 2)
